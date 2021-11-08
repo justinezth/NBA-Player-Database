@@ -1,2 +1,2 @@
-# NBA_database
-Developed a user-friendly web app using a MySQL relational database which allows user to explore NBA Player Statistics data with search, sort, filter, and reporting functions. Created with SQL and Python.
+# NBA_database[https://github.com/justinezth/NBA_database/blob/main/code/dsci351_project_justinehuang.ipynb]
+This is a user-friendly web app which allows user to explore NBA Player Statistics data with search, sort, filter, and reporting functions. Created by cleaning data retrieved from Basketball Reference [https://www.basketball-reference.com/], importing it to MySQL relational database, connecting the databse with a Python notebook, and processing and displaying data with SQL and Python.
